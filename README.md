@@ -1,6 +1,7 @@
 # CODSOFT TASKS
-Managed & Completely contributed by Bhupender Yadav.
-Hii! I am Bhupender Yadav. I have completed all the tasks given by CODSOFT. I have pasted snaps of code with output for better understanding. It was great experience that I have gained in doing these problems while four weeks of internship duration. I took help from various resources like Google, YouTube, ChatGPT, friends, etc. I am happy that I have successfully done the tasks that I have assigned by CodSoft Team.
+Managed & Completely contributed by Bhupender Yadav. <br />
+Hii!! I am Bhupender Yadav. I have completed all the tasks given by CODSOFT. I am very thankful to CodSoft for providing me this opportunity. I have pasted snaps of code with output for better understanding. It was great experience that I have gained in doing these problems while four weeks of internship duration. I took help from various resources like Google, YouTube, ChatGPT, friends, etc. I am happy that I have successfully done the tasks that I have assigned by CodSoft Team. <br />
+Thank You CodSoft!!!
 
 ## 1_NUMBER_GUESSING_GAME
 Code
