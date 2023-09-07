@@ -9,6 +9,7 @@ Hii!! I am Bhupender Yadav. I have completed all the tasks given by CODSOFT. I a
 
 #### Output
 ![alt text](https://github.com/bhupenderyadav7424/CODSOFT/blob/main/1_NUMBER_GUESSING_GAME/Code%20Images%20with%20Output/Output.png)
+<br /> <br />
 
 ## 2_SIMPLE_CALCULATOR
 #### Code
@@ -16,6 +17,7 @@ Hii!! I am Bhupender Yadav. I have completed all the tasks given by CODSOFT. I a
 
 #### Output
 ![alt text](https://github.com/bhupenderyadav7424/CODSOFT/blob/main/2_SIMPLE_CALCULATOR/Code%20Images%20with%20Output/Output.png)
+<br /> <br />
 
 ## 3_TIC-TAC-TOE_GAME
 #### Code
@@ -25,6 +27,7 @@ Hii!! I am Bhupender Yadav. I have completed all the tasks given by CODSOFT. I a
 
 #### Output
 ![alt text](https://github.com/bhupenderyadav7424/CODSOFT/blob/main/3_TIC-TAC-TOE_GAME/Code%20Images%20with%20Output/Output.png)
+<br /> <br />
 
 ## 4_TO-DO_LIST
 #### Code
@@ -36,6 +39,7 @@ Hii!! I am Bhupender Yadav. I have completed all the tasks given by CODSOFT. I a
 #### Output
 ![alt text](https://github.com/bhupenderyadav7424/CODSOFT/blob/main/4_TO-DO_LIST/Code%20Images%20with%20Output/Output1.png)
 ![alt text](https://github.com/bhupenderyadav7424/CODSOFT/blob/main/4_TO-DO_LIST/Code%20Images%20with%20Output/Output2.png)
+<br /> <br />
 
 ## 5_IMAGE_PROCESSING_TOOL
 #### Code
